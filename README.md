@@ -1,4 +1,4 @@
-# Make your own twitter
+# How To Make Twitter
 
 **This book is currently free while it's being written!**
 
