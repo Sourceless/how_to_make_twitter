@@ -28,3 +28,21 @@ is useless -- just that it's not completely right.
 
 By adding a bit at a time, experimenting and most importantly verifying that you're building the right
 thing, you'll avoid wasting your (and others') time.
+
+## Staged Approach
+Service design is best accompanied by releasing and testing early and often. This way you can gather
+feedback and incorporate it quickly.
+
+Projects tend to follow a series of stages.
+
+### Discovery
+
+### Alpha
+
+### Beta
+
+#### Private Beta
+
+#### Public Beta
+
+### Live
